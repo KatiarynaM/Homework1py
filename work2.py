@@ -39,3 +39,4 @@ l = 1
 while l < num_max:
     print(l)
     l *= 2
+    
